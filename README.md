@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Software Test Engineer
 - 👀 I’m interested in exploring new technologies.
-- 🌱 I’m currently learning advanced Java programming.
+- ⚡ I’m currently learning advanced Java programming.
 - 📫 How to reach me: [ajithvijayakumar05@gmail.com](mailto:ajithvijayakumar05@gmail.com)
 
 
