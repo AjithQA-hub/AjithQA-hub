@@ -33,6 +33,6 @@
 <p>
   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </p>
-[![Ajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjithQA-hub&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjithQA-hub&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
 
 ![Ajith github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjithQA-hub&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
