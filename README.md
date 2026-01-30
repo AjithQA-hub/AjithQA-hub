@@ -35,6 +35,4 @@
   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </p>
 
-# ![Ajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjithQA-hub&theme=dark&show_icons=true&&hide=issues,contribs)
-
 ![Ajith github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjithQA-hub&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
