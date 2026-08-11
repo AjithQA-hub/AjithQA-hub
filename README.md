@@ -44,7 +44,7 @@ Reach me at: ajithvijayakumar05@gmail.com
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="[https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)">
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5">
   <img src="[https://img.shields.io/node/v/:packageName](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)">
 </p>
 
