@@ -13,7 +13,25 @@
 - **GitHub:** [github.com/AjithQA-hub](https://github.com/AjithQA-hub)
 
 ## About
-As a Software Test Engineer with hands-on experience in **Manual** and **Automation** Testing, including Black-box, White-box, **Smoke, Sanity**, Functional, Integration, and **Regression testing**. Strong expertise in analyzing requirements, identifying defects, and ensuring application quality through logical and detail-oriented testing approaches. Experienced in designing, validating, and executing test cases, preparing test plans, and generating test execution and defect reports. Proficient in maintaining test artifacts such as test cases, test suites, and test plans using **TestRail**, ensuring complete test coverage. Skilled in creating Requirement Traceability Matrix **(RTM)** to map test cases with **business requirements**. Proficient in using SQL queries to validate backend data and hands-on experience in automation testing using **Selenium with Java**, implementing **TestNG, Junit and Cucumber frameworks** to validate application functionality. Developed and executed functional and regression test scenarios, including analytics dashboards, using both manual and automated approaches. Experienced in enhancing and executing automated test scripts with minimal manual intervention and communicating test results and quality metrics effectively to clients.
+Software Test Engineer with hands-on experience in both manual and automation testing, focused on delivering high-quality, defect-free releases across web and enterprise applications.
+
+• I help teams catch critical issues early, streamline QA processes, and build reliable automation frameworks that reduce manual effort and accelerate release cycles.
+
+• Executed 700+ manual test cases across Black-box, Smoke, Sanity, Functional, Integration, and Regression testing, uncovering 300+ critical defects pre-production and maintaining a 60% bug-detection rate.
+
+• Validated 100+ high-volume XML data streams against front-end UI components, reducing UI discrepancies by 60% through structured data validation.
+
+• Architected Cypress end-to-end automation scripts for mission-critical flows (OTP registration, checkout), cutting manual regression cycles by 80% and saving engineering hours per release.
+
+• Built and maintained Requirement Traceability Matrices (RTM) to map test cases to business requirements, ensuring complete coverage and reducing scope creep by 50%.
+
+• Delivered functional and regression testing on analytics platforms (HEALTHENTIC) and telecom applications (Telus, Telstra, Bell Canada, SaskTel, AT&T), combining manual and automation approaches using cypress automation and Cucumber framework.
+
+• Skilled across the QA toolchain — JIRA, TestRail, Postman, Jenkins, GitHub, SSMS — with strong SQL-based database and data-integrity testing experience.
+
+Passionate about Software Testing roles where I can drive quality at scale, build robust automation frameworks, and ensure reliable, business-aligned releases.
+
+Reach me at: ajithvijayakumar05@gmail.com
 
 ## I code in
 <p>
