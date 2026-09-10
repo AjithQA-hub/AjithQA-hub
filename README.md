@@ -11,19 +11,21 @@
 ## About
 Software Test Engineer with hands-on experience in both manual and automation testing, focused on delivering high-quality, defect-free releases across web and enterprise applications.
 
-• I help teams catch critical issues early, streamline QA processes, and build reliable automation frameworks that reduce manual effort and accelerate release cycles.
+• Help teams catch critical issues early, streamline QA processes, and build reliable automation solutions that reduce manual effort and accelerate release cycles.
 
 • Executed 700+ manual test cases across Black-box, Smoke, Sanity, Functional, Integration, and Regression testing, uncovering 300+ critical defects pre-production and maintaining a 60% bug-detection rate.
 
 • Validated 100+ high-volume XML data streams against front-end UI components, reducing UI discrepancies by 60% through structured data validation.
 
-• Architected Cypress end-to-end automation scripts for mission-critical flows (OTP registration, checkout), cutting manual regression cycles by 80% and saving engineering hours per release.
+• Developed and maintained Selenium WebDriver automation scripts using Java, TestNG, Cucumber, and Page Object Model (POM) for web application testing and regression coverage.
+
+• Architected Cypress end-to-end automation scripts for mission-critical flows such as OTP registration and checkout, cutting manual regression cycles by 80% and saving engineering hours per release.
 
 • Built and maintained Requirement Traceability Matrices (RTM) to map test cases to business requirements, ensuring complete coverage and reducing scope creep by 50%.
 
-• Delivered functional and regression testing on analytics platforms (HEALTHENTIC) and telecom applications (Telus, Telstra, Bell Canada, SaskTel, AT&T), combining manual and automation approaches using cypress automation and Cucumber framework.
+• Delivered functional and regression testing on analytics platforms (HEALTHENTIC) and telecom applications (TELUS, Telstra, Bell Canada, SaskTel, AT&T), combining manual and automation approaches using Selenium, Cypress, Java, Cucumber, and TestNG.
 
-• Skilled across the QA toolchain — JIRA, TestRail, Postman, Jenkins, GitHub, SSMS — with strong SQL-based database and data-integrity testing experience.
+• Skilled across the QA toolchain — JIRA, TestRail, Postman, Jenkins, GitHub, Maven, and SSMS — with strong SQL-based database and data-integrity testing experience.
 
 Passionate about Software Testing roles where I can drive quality at scale, build robust automation frameworks, and ensure reliable, business-aligned releases.
 
