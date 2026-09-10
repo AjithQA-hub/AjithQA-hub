@@ -48,6 +48,7 @@ Reach me at: ajithvijayakumar05@gmail.com
   <img src="https://img.shields.io/badge/cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img src="https://img.shields.io/badge/-mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white">
   <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ## 💻 Workspace Spec
