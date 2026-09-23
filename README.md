@@ -6,7 +6,6 @@
 ## Contact Information
 - **Email:** [ajithvijayakumar05@gmail.com](mailto:ajithvijayakumar05@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ajith-v-348074214/](https://www.linkedin.com/in/ajith-v-348074214/)
-- **GitHub:** [github.com/AjithQA-hub](https://github.com/AjithQA-hub)
 
 ## About
 Software Test Engineer with hands-on experience in both manual and automation testing, focused on delivering high-quality, defect-free releases across web and enterprise applications.
