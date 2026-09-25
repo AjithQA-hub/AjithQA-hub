@@ -57,7 +57,5 @@ Reach me at: ajithvijayakumar05@gmail.com
   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </p>
 
-## <p>
-<img src="https://icons8.com/icon/dc6kdToG53HN/leetcode">
-</p> Leetcode
+## 👨‍💻 Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ajithqa?ext=contest&theme=dark)](https://leetcode.com/u/ajithqa/)
